@@ -1,0 +1,18 @@
+# Rojo / tooling output
+sourcemap.json
+build/preview.json
+*.rbxl.lock
+*.rbxlx.lock
+roblox.yml
+roblox.yaml
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
